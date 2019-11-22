@@ -1,5 +1,5 @@
 # ICUP-Assignment
  Vihar Devalla - 1st J
-![alt text](tkinter.jpg)
-![alt text](Graph1.jpg)
+![alt text](tkinter.JPG)
+![alt text](Graph1.JPG)
 
